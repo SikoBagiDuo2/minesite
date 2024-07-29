@@ -3,7 +3,7 @@
 <head>
 <style> 
 body {
-  background-image: url("giffiles.alphacoders.com/202/20237.gif");
+  background-image: url("https://giffiles.alphacoders.com/202/20237.gif");
   background-color: #cccccc;
 }
 </style>
